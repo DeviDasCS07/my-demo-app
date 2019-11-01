@@ -6,7 +6,7 @@ import { Component, HostListener } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'my-demo-app';
+  title = 'Profile Info';
   deferredPrompt: any;
   showButton = false;
 
